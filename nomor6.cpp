@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int i = 1, value = 0;
+	int i = 0, value = 0;
   while (i <= 20) {
     if (i % 2 == 0 && i <= 10)
       value = value + i * i;

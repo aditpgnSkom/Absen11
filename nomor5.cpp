@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-#define MAKS 8
+#define MAKS 5
 
 int main()
 {
